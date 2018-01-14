@@ -1,0 +1,5 @@
+package com.mykong.rest.client;
+
+public class RestJavaClient {
+
+}
